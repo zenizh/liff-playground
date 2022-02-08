@@ -42,7 +42,7 @@ This will start it up. When you access the URL shown in the terminal, you can se
 
 This section shows an example of deploying LIFF Playground to [Netlify](https://www.netlify.com/). You can deploy it from the Deploy button below.
 
-[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy)
+[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zenizh/liff-playground)
 
 After executing the above, the LIFF Playground will be deployed on Netlify. The next step is to get the URL of the deployed page.
 
